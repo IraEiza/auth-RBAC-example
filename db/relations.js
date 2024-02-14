@@ -1,3 +1,5 @@
+const User = require('../api/models/user.model')
+
 function addRelationsToModels() {
   try {
 
